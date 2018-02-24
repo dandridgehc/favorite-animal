@@ -1,0 +1,13 @@
+.big {
+    font-size: 100px;
+    color: purple;
+    font-weight: bolder;
+    float: left;
+}
+
+.plain {
+    font-size: 20px;
+    color: turquoise;
+    font-weight: bold;
+    float:left;
+}
